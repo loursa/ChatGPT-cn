@@ -1,7 +1,7 @@
 # 2024 ChatGPT中文版访问指南：国内最全镜像站推荐（支持GPT-4，免费试用）
 
 
-> **更新时间：2024/11/30**  
+> **更新时间：2024/12/01**  
 > **作者：loursa**
 
 想在国内快速使用 **ChatGPT中文版** 吗？无需翻墙、支持 GPT-4 和 Claude3，还可以免费试用多种高级功能！本指南为您整理了国内最新、最全的 ChatGPT 镜像站推荐，并提供详细的使用教程和常见问题解答，助您轻松上手。
@@ -27,7 +27,7 @@
 |----------------------|---------------------|------------------------|--------------------------|----------------|
 | [snakegpt.work](https://snakegpt.work) | GPT-4，GPT-3.5        | 注册后免费试用5次    | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐       |
 | [gptcat.net](https://gptcat.net)        | GPT-4, GPT-o1，Claude3         | 免费试用10次                | 高级语音对话功能            | ⭐⭐⭐⭐⭐        |
-| [ai-panda.xyz](https://ai-panda.xyz)    | GPT-4, GPT-3.5         | 免费试用                      | 提供 API 调用，开发者友好   | ⭐⭐⭐⭐        |
+| [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)    | GPT-4, GPT-3.5         | 免费试用                      | 提供 API 调用，开发者友好   | ⭐⭐⭐⭐        |
 | [gptdog.online](https://gptdog.online)  | GPT-3.5                | 无                      | 界面简单，新手友好          | ⭐⭐⭐         |
 
 ### 🔍 推荐理由：
